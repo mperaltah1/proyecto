@@ -1,0 +1,7 @@
+com\umg\demojpa\service\StudentService.class
+com\umg\demojpa\DemoJpaApplication.class
+com\umg\demojpa\entity\Student.class
+com\umg\demojpa\repository\StudentRepository.class
+com\umg\demojpa\controller\StudentController2.class
+com\umg\demojpa\controller\StudentController.class
+com\umg\demojpa\service\StudentServiceImpl.class
